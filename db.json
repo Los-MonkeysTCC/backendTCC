@@ -1,0 +1,39 @@
+{
+  "itens": [
+    {
+      "name": "Arduino",
+      "quantidade": "15",
+      "id": 1
+    },
+    {
+      "name": "Monitores",
+      "quantidade": "7",
+      "id": 2
+    },
+    {
+      "name": "Teclado",
+      "quantidade": "12",
+      "id": 3
+    },
+    {
+      "name": "arduino",
+      "quantidade": "15",
+      "id": 4
+    },
+    {
+      "name": "Led",
+      "quantidade": "200",
+      "id": 5
+    },
+    {
+      "name": "Banana",
+      "quantidade": "2",
+      "id": 6
+    },
+    {
+      "name": "linguicinha",
+      "quantidade": "4",
+      "id": 7
+    }
+  ]
+}
